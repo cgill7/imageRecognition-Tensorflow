@@ -2,6 +2,8 @@
 <br >
 A simple Image recognition app made on python which uses a tflite model impoter in android studio to recognise different images.
 <br >
+Download the apk from the files and try it !!!!! :)
+<br >
 Get the model from - https://www.tensorflow.org/lite/examples/image_classification/overview
 <br >
 App preview : 
