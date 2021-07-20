@@ -1,6 +1,6 @@
 # Image recognition android app using Tensorflow Lite model
 <br >
-A simple Image recognition app made on python which uses a tflite model impoter in android studio to recognise different images.
+A simple Image recognition app made on python which uses a tflite model imported in android studio to recognise different images.
 <br >
 Download the apk from the files and try it !!!!! :)
 <br >
